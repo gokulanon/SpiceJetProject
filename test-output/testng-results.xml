@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-11T01:17:23 IST" name="Default suite" finished-at="2024-07-11T01:18:10 IST" duration-ms="46639">
+    <groups>
+    </groups>
+    <test started-at="2024-07-11T01:17:23 IST" name="Default test" finished-at="2024-07-11T01:18:10 IST" duration-ms="46639">
+      <class name="Testclass.spiceJetTest">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:Testclass.spiceJetTest@6e2829c7]" started-at="2024-07-11T01:17:23 IST" name="Launch" finished-at="2024-07-11T01:17:30 IST" duration-ms="6372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="validateSignUpPage()[pri:1, instance:Testclass.spiceJetTest@6e2829c7]" started-at="2024-07-11T01:17:30 IST" name="validateSignUpPage" finished-at="2024-07-11T01:17:37 IST" duration-ms="7669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSignUpPage -->
+        <test-method is-config="true" signature="Launch()[pri:0, instance:Testclass.spiceJetTest@6e2829c7]" started-at="2024-07-11T01:17:38 IST" name="Launch" finished-at="2024-07-11T01:17:49 IST" duration-ms="11297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="onewaytrip()[pri:2, instance:Testclass.spiceJetTest@6e2829c7]" started-at="2024-07-11T01:17:49 IST" name="onewaytrip" finished-at="2024-07-11T01:17:51 IST" duration-ms="1952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onewaytrip -->
+        <test-method is-config="true" signature="Launch()[pri:0, instance:Testclass.spiceJetTest@6e2829c7]" started-at="2024-07-11T01:17:51 IST" name="Launch" finished-at="2024-07-11T01:18:00 IST" duration-ms="8845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="twoWaytrip()[pri:3, instance:Testclass.spiceJetTest@6e2829c7]" started-at="2024-07-11T01:18:00 IST" name="twoWaytrip" finished-at="2024-07-11T01:18:02 IST" duration-ms="2772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twoWaytrip -->
+        <test-method is-config="true" signature="Launch()[pri:0, instance:Testclass.spiceJetTest@6e2829c7]" started-at="2024-07-11T01:18:02 IST" name="Launch" finished-at="2024-07-11T01:18:04 IST" duration-ms="1583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="loginValidation()[pri:4, instance:Testclass.spiceJetTest@6e2829c7]" started-at="2024-07-11T01:18:04 IST" name="loginValidation" finished-at="2024-07-11T01:18:10 IST" duration-ms="6092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidation -->
+      </class> <!-- Testclass.spiceJetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
